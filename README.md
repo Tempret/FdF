@@ -1,6 +1,6 @@
 # FdF
 
-<h>this is basic graphical C project.</h>
+<h>this is basic graphical C project.</h><br>
 ![screenshot](https://github.com/Tempret/FdF/blob/master/img/heart.png)
 
 In this project you will discover the basics of graphic programming,<br>
