@@ -1,6 +1,6 @@
 # FdF
 
-<h>this is basic graphical C project.</h><br>
+<h>This is basic graphical C project.</h><br>
 
 ![screenshot](https://github.com/Tempret/FdF/blob/master/img/heart.png)
 
